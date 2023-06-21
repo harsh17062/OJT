@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title style="color: rgb(252, 16, 16);">
+           Restaurant 
+        </title>
+        <style>
+           body{
+            background-color: rgb(25, 24, 36);
+           } 
+            
+            
+        </style>
+    </head>
+    <style>
+        .xyz{
+            display: flex;
+            align-items:left;
+            justify-content: left;
+            
+        }
+        img{
+            max-width: 100%;
+            max-height: 100%;
+            justify-content: right;
+        }
+        .text{
+            font-size: 30px;
+            padding-left: 20px;
+        }
+    </style>
+    <body>
+        <hr/>
+        <h1 style="color: rgb(33, 48, 255);">
+        <i><b><center>..[MRP Restaurant]..</center></b></i></h1><hr/>
+            <h2 style="color:rgb(46, 98, 241)"><b>ADDRESS:<a style="color: rgb(167, 113, 236);" href="https://goo.gl/maps/ZciiP6AwYTCDWp6S6">Google Map</a></b></h2>
+            <h3 style="color: rgb(43, 117, 253);">PDPU,GANDHINAGAR,GUJARAT</h3>
+            <label style="color: rgb(39, 123, 248);"><b>Time : 5pm to 12pm</b></label>
+
+            <fieldset>
+            <legend style="color: rgb(68, 206, 79);"><h3>Menu</h3></legend>
+        
+            <h1 style="color: rgb(16, 233, 233);"><b><center>Starters</center></b></h1>
+            <hr/><hr/>
+            
+            <div class="xyz">
+               
+          <div class="text">
+            <label style="color: aqua;"><b>Tomato Soup:-Price:150$ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;  &nbsp; &nbsp; &nbsp;</b></label>
+            
+          </div>
+          <div class="image">
+            <img width="300" height="200" src="https://www.vegrecipesofindia.com/wp-content/uploads/2020/11/tomato-soup-recipe-2-500x375.jpg">
+           </div>  </div>
+            <hr/>
+            <div class="xyz">
+            <div class="text">
+            <p style="color: aqua;"><B>Manchow Soup:-Price:200$ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</B></p></div>
+            <div class="image"><img width="300" height="200" src="https://ranveerbrar.com/wp-content/uploads/2021/02/Manchow-soup_Fotor-scaled.jpg"></div>
+            </div><hr/><hr/>
+            
+            
+        
+            <h1 style=" color: aqua;"><b> <center> Main courses</center></b></h1><hr/><hr/>
+                
+                <div class="xyz">
+                    <div class="text">
+                        <p style="color: aqua;"><b>Sandwich: </p></b>
+                        <ol>
+                            <li style="color: aqua;" >Veg.Sandwich  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp; 120$&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</li>
+                            <li style="color: aqua;">Chesse Sandwich  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp;130$&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</li>
+                            <li style="color: aqua;" >Pneer Sandwich &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; 120$&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</li>
+                        </ol>
+                    </div>
+                    <div class="image"><img width="300" height="200" src="https://images.unsplash.com/photo-1528735602780-2552fd46c7af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=873&q=80">
+                        </div>
+                </div><hr/>
+                
+                <div class="xyz">
+                    <div class="text">
+                        <p style="color: aqua;"><b>Pizza: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+                        <ol>
+                            <li style="color: aqua;" >Margarita Pizza &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp 120$&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</li>
+                            <li style="color: aqua;">Maxican Pizza &nbsp;&nbsp;&nbsp;&nbsp;   &nbsp; &nbsp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp 130$&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</li>
+                            <li style="color: aqua;" >Vegeterain Pizza &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp 120$&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</li>
+                        </ol>
+                    </div>
+                    <div class="image">
+                        <img width="300" height="200" src="https://static.toiimg.com/thumb/53110049.cms?width=1200&height=900">
+
+                    </div>
+                </div><hr/>
+                
+                <div class="xyz">
+                    <div class="text">
+                        <p style="color: aqua;"><b>Manchurian: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+                        <ol>
+                            <li style="color: aqua;" >Cabbage Manchurian &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp; 120$&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</li>
+                            <li style="color: aqua;">Gobi Manchurian &nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;  &nbsp;&nbsp;&nbsp;&ensp; &nbsp;&ensp;&ensp; &nbsp; &nbsp; 130$&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</li>
+                            <li style="color: aqua;" >Egg Manchurian &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 120$&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</li>
+                        </ol>
+                    </div>
+                    <div>
+                        <img width="300" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDso2sJjbIdOQilAjvu9ehxBzW5KEpHY-8Uw&usqp=CAU">
+                    </div>
+                </div><hr/>
+                
+                
+                
+                <div class="xyz">
+                    <div class="text">
+                        <p style="color: aqua;"><b>Burger: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+                        <ol>
+                            <li style="color: aqua;" >Veg Burger &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;120$&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</li>
+                            <li style="color: aqua;">Alootikki &nbsp;&nbsp;&nbsp;&nbsp;   &nbsp; &nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; 130$&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</li>
+                            <li style="color: aqua;" >Maxican &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; 120$&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</li>
+                        </ol>
+                    </div>
+                    <div class="image">
+                        <img width="300" height="200" src="https://recipes.timesofindia.com/thumb/83565509.cms?width=1200&height=900"> 
+                    </div>
+                </div><hr/>
+                <div class="xyz">
+                    <div class="text">
+                        <p style="color: aqua;"><b>frenchfries: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+                        <ol>
+                            <li style="color: aqua;" >Curly Fries &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;150$&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</li>
+                            <li style="color: aqua;">Waffle Fries &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; 160$&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</li>
+                            <li style="color: aqua;" >Maxican Fries &nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; 170$&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</li>
+                        </ol>
+                    </div>
+                    <div class="image">
+                        <img width="300" height="200" src="https://www.chefhasti.com/wp-content/uploads/2020/06/COVER-1-1-scaled.jpg"> 
+                    </div>
+                </div><hr/>
+                <div class="xyz">
+                    <div class="text">
+                        <p style="color: aqua;"><b>milkshake: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+                        <ol>
+                            <li style="color: aqua;" >Mango Shake&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;150$&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</li>
+                            <li style="color: aqua;">Chocolate Shake &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; 160$&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</li>
+                            <li style="color: aqua;" >Straberry Shake&nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 170$&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</li>
+                        </ol>
+                    </div>
+                    <div class="image">
+                       <img width="300" height="200" src="data:image/jpeg;base64,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"> 
+                    </div>
+                </div><hr/>
+                <h1 style="color: blue;"><center><u>About us</u></center></h1>
+                <h2 style="color: aqua;">Mobile No:8141155352 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&ensp;Email No:-mrp123@gmail.com </h2>
+                
+                
+              
+               
+            </fieldset>
+
+        </h1>
+        
+    </body>
+</html>
