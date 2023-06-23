@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Hover Element</title>
+    <style type="text/css">
+        #MainUL li ul li{display: none;}
+        #MainUL li:hover ul li{display: block;}
+        #MainUL li:hover ul li ul li{display: none;}
+        #MainUL li ul li:hover ul li{display: block;}
+        #MainUL li ul li:hover ul li ul li{display: none;}
+        #MainUL li ul li ul li:hover ul li{display: block;}
+     </style>
+    
+</head>
+<body>
+    <ul id="MainUL">
+        <li>Gmail
+            <ul style="list-style-type: circle;">
+                <li>sign in</li>
+                <li>sign up
+                   <ul>
+                      <li>sign in as admin</li>
+                      <li>sign in as member</li>
+                   </ul>
+                </li>
+            </ul>
+        </li>
+        <li>Microsoft
+            <ul>
+                <li>new Account</li>
+                <li>open Account</li>
+            </ul>
+
+        </li>
+        <li>
+            YOUTUBE
+            <ul>
+                <li>
+                    open
+                </li>
+                <li>
+                    close
+                </li>
+            </ul>
+        </li>
+        <li>
+            Fecebook
+            <ul>
+                <li>
+                    Create ACCOUNT
+                </li>
+                <li>
+                    sign in
+                </li>
+            </ul>
+        </li>
+    </ul>
+</body>
+</html>
